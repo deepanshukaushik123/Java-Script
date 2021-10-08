@@ -1,0 +1,27 @@
+.body{
+    background-color: lightgray;
+}
+#main-heading {
+    /* position: absolute;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%); */
+    text-align: center;
+}
+
+.big {
+   font-size: 150px;
+}
+
+.small {
+    font-size: 24px;
+}
+
+#Btn-click {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%, -50%);
+
+}
